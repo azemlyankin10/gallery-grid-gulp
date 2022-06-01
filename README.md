@@ -1,5 +1,5 @@
 # gallery-grid-gulp
-HTML, CSS, GRID, GULP
+HTML, SCSS, GRID, GULP
 ![desc](https://user-images.githubusercontent.com/89382815/171465214-0664bf18-070d-4ffb-9cdc-2b708324376f.png)
 
 
