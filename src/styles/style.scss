@@ -1,0 +1,31 @@
+@import '_normalize.scss';
+@import 'variables.scss';
+@import '_font.scss';
+@import '_common.scss';
+@import '_mixins.scss';
+
+
+@import './components/header.scss';
+@import './components/hero.scss';
+@import './components/about.scss';
+@import './components/progect.scss';
+@import './components/contact.scss';
+@import './components/footer.scss';
+
+
+
+// //Extra large
+// @media(max-width: 1200px) {
+// }
+
+// //large 
+// @media(max-width: 992px) {
+// }
+
+// //medium
+// @media(max-width: 767px) {
+// }
+
+// //small
+// @media(max-width: 576px) {
+// }
